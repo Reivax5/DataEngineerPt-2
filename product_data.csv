@@ -1,0 +1,101 @@
+product_id,product_name,category,price,rating,supplier,stock_quantity,release_date
+1,Product 1,Home,48.88,3.67,Initech,85,2023-08-19 22:27:27.915859
+2,Product 2,Toys,43.97,1.98,Soylent Corp,85,2022-12-26 22:27:27.915863
+3,Product 3,Furniture,82.18,3.87,Soylent Corp,60,2023-03-15 22:27:27.915864
+4,Product 4,Sports,92.99,3.39,Globex Corp,44,2023-04-28 22:27:27.915865
+5,Product 5,Toys,75.87,1.85,Globex Corp,96,2023-09-23 22:27:27.915866
+6,Product 6,Electronics,64.16,4.4,Vandelay Industries,5,2023-01-07 22:27:27.915866
+7,Product 7,Appliances,35.64,2.71,Acme Corp,73,2023-01-30 22:27:27.915867
+8,Product 8,Fashion,74.96,4.85,Globex Corp,18,2023-08-26 22:27:27.915868
+9,Product 9,Appliances,54.46,3.89,Soylent Corp,21,2023-07-22 22:27:27.915869
+10,Product 10,Sports,83.53,3.58,Initech,72,2023-05-29 22:27:27.915870
+11,Product 11,Appliances,102.9,3.91,Vandelay Industries,98,2023-07-17 22:27:27.915870
+12,Product 12,Sports,96.83,2.91,Globex Corp,74,2022-12-14 22:27:27.915871
+13,Product 13,Books,72.06,3.02,Initech,51,2023-09-24 22:27:27.915872
+14,Product 14,Books,85.63,4.4,Initech,41,2023-01-12 22:27:27.915873
+15,Product 15,Appliances,46.3,3.72,Globex Corp,24,2023-06-22 22:27:27.915873
+16,Product 16,Beauty,8.51,4.59,Acme Corp,24,2023-06-21 22:27:27.915874
+17,Product 17,Appliances,95.63,4.56,Acme Corp,96,2023-10-13 22:27:27.915875
+18,Product 18,Appliances,41.62,4.91,Vandelay Industries,97,2023-03-22 22:27:27.915875
+19,Product 19,Beauty,102.0,3.8,Acme Corp,38,2023-08-17 22:27:27.915876
+20,Product 20,Fashion,113.32,3.01,Vandelay Industries,44,2023-04-18 22:27:27.915877
+21,Product 21,Furniture,137.81,1.67,Soylent Corp,57,2023-06-28 22:27:27.915878
+22,Product 22,Beauty,143.93,3.82,Globex Corp,59,2022-12-19 22:27:27.915879
+23,Product 23,Sports,6.53,2.17,Initech,34,2023-01-13 22:27:27.915880
+24,Product 24,Furniture,148.6,2.13,Vandelay Industries,75,2023-11-17 22:27:27.915880
+25,Product 25,Electronics,104.04,1.95,Acme Corp,95,2023-02-19 22:27:27.915881
+26,Product 26,Fashion,98.31,4.5,Vandelay Industries,82,2023-10-17 22:27:27.915882
+27,Product 27,Electronics,7.21,4.47,Vandelay Industries,23,2023-06-14 22:27:27.915883
+28,Product 28,Home,129.88,3.52,Acme Corp,86,2023-02-07 22:27:27.915883
+29,Product 29,Books,26.1,2.89,Acme Corp,43,2023-06-05 22:27:27.915884
+30,Product 30,Electronics,126.41,3.69,Globex Corp,82,2023-06-04 22:27:27.915885
+31,Product 31,Toys,7.26,3.43,Initech,40,2023-01-01 22:27:27.915885
+32,Product 32,Appliances,98.66,2.66,Globex Corp,47,2023-02-02 22:27:27.915886
+33,Product 33,Sports,68.05,2.52,Globex Corp,41,2023-01-30 22:27:27.915887
+34,Product 34,Electronics,34.11,2.53,Acme Corp,47,2022-12-25 22:27:27.915888
+35,Product 35,Electronics,20.6,3.36,Acme Corp,20,2023-09-16 22:27:27.915888
+36,Product 36,Home,68.82,3.59,Initech,77,2023-07-03 22:27:27.915889
+37,Product 37,Appliances,22.88,2.81,Vandelay Industries,65,2023-03-06 22:27:27.915890
+38,Product 38,Appliances,75.53,4.87,Globex Corp,68,2023-02-26 22:27:27.915891
+39,Product 39,Home,95.66,1.34,Initech,24,2023-04-01 22:27:27.915891
+40,Product 40,Beauty,124.97,2.39,Globex Corp,36,2023-07-12 22:27:27.915892
+41,Product 41,Home,103.4,2.68,Vandelay Industries,45,2023-11-29 22:27:27.915893
+42,Product 42,Toys,14.45,1.07,Globex Corp,2,2023-07-02 22:27:27.915894
+43,Product 43,Furniture,49.58,2.46,Soylent Corp,28,2023-06-18 22:27:27.915894
+44,Product 44,Toys,46.76,2.09,Initech,26,2023-09-28 22:27:27.915895
+45,Product 45,Home,137.68,3.02,Acme Corp,23,2023-09-03 22:27:27.915896
+46,Product 46,Books,130.83,2.35,Globex Corp,79,2022-12-08 22:27:27.915896
+47,Product 47,Beauty,58.67,3.9,Initech,36,2023-06-03 22:27:27.915897
+48,Product 48,Books,15.32,3.04,Initech,91,2023-06-19 22:27:27.915898
+49,Product 49,Toys,134.65,1.52,Globex Corp,6,2023-05-16 22:27:27.915899
+50,Product 50,Appliances,133.79,4.0,Acme Corp,35,2023-10-25 22:27:27.915899
+51,Product 51,Toys,128.94,1.4,Acme Corp,38,2023-11-23 22:27:27.915900
+52,Product 52,Fashion,127.54,4.36,Globex Corp,35,2023-07-05 22:27:27.915901
+53,Product 53,Sports,74.64,4.73,Initech,74,2023-03-07 22:27:27.915901
+54,Product 54,Fashion,30.73,2.29,Acme Corp,94,2023-02-11 22:27:27.915902
+55,Product 55,Home,74.24,4.7,Globex Corp,53,2023-10-16 22:27:27.915903
+56,Product 56,Electronics,76.72,4.17,Globex Corp,38,2023-05-08 22:27:27.915904
+57,Product 57,Books,76.04,4.69,Globex Corp,93,2023-07-15 22:27:27.915904
+58,Product 58,Furniture,83.12,3.67,Initech,59,2022-12-14 22:27:27.915905
+59,Product 59,Fashion,42.36,1.94,Acme Corp,43,2023-12-03 22:27:27.915906
+60,Product 60,Beauty,58.1,4.58,Initech,4,2023-03-27 22:27:27.915907
+61,Product 61,Books,67.96,1.74,Soylent Corp,5,2023-01-05 22:27:27.915907
+62,Product 62,Fashion,24.01,1.85,Acme Corp,68,2023-03-25 22:27:27.915908
+63,Product 63,Appliances,71.03,2.08,Initech,45,2023-08-30 22:27:27.915909
+64,Product 64,Sports,122.52,2.22,Acme Corp,80,2023-06-16 22:27:27.915910
+65,Product 65,Toys,125.07,3.06,Soylent Corp,25,2023-07-09 22:27:27.915910
+66,Product 66,Toys,64.68,3.85,Vandelay Industries,78,2023-03-02 22:27:27.915911
+67,Product 67,Fashion,80.23,4.7,Globex Corp,11,2023-10-08 22:27:27.915912
+68,Product 68,Home,9.88,1.35,Initech,29,2023-08-15 22:27:27.915912
+69,Product 69,Beauty,102.79,4.82,Soylent Corp,34,2023-01-16 22:27:27.915913
+70,Product 70,Home,63.67,4.69,Soylent Corp,86,2023-04-07 22:27:27.915914
+71,Product 71,Books,69.59,1.22,Acme Corp,14,2023-01-30 22:27:27.915915
+72,Product 72,Sports,131.68,2.44,Acme Corp,24,2023-10-10 22:27:27.915915
+73,Product 73,Sports,71.97,4.25,Globex Corp,59,2023-10-07 22:27:27.915916
+74,Product 74,Toys,8.07,3.45,Acme Corp,39,2023-01-11 22:27:27.915917
+75,Product 75,Sports,37.99,4.12,Initech,26,2023-05-04 22:27:27.915918
+76,Product 76,Home,73.96,3.88,Initech,43,2023-04-17 22:27:27.915918
+77,Product 77,Beauty,66.54,2.99,Initech,36,2023-10-12 22:27:27.915919
+78,Product 78,Beauty,129.75,1.16,Vandelay Industries,39,2023-05-12 22:27:27.915920
+79,Product 79,Toys,83.61,3.34,Initech,61,2023-10-04 22:27:27.915921
+80,Product 80,Fashion,105.0,1.19,Acme Corp,16,2023-06-05 22:27:27.915921
+81,Product 81,Beauty,73.05,3.41,Acme Corp,59,2023-01-29 22:27:27.915922
+82,Product 82,Home,68.75,4.2,Initech,96,2023-02-28 22:27:27.915923
+83,Product 83,Electronics,69.71,3.34,Soylent Corp,6,2023-11-10 22:27:27.915924
+84,Product 84,Fashion,64.58,4.99,Soylent Corp,98,2023-06-12 22:27:27.915924
+85,Product 85,Furniture,83.09,2.82,Soylent Corp,56,2023-10-04 22:27:27.915925
+86,Product 86,Appliances,41.31,4.0,Globex Corp,8,2023-09-24 22:27:27.915926
+87,Product 87,Sports,134.2,3.67,Vandelay Industries,94,2023-01-05 22:27:27.915927
+88,Product 88,Sports,53.3,4.97,Initech,27,2023-06-22 22:27:27.915927
+89,Product 89,Electronics,26.39,3.85,Globex Corp,71,2023-04-25 22:27:27.915928
+90,Product 90,Fashion,19.0,1.66,Soylent Corp,27,2023-10-02 22:27:27.915929
+91,Product 91,Toys,6.95,4.82,Initech,89,2023-09-28 22:27:27.915929
+92,Product 92,Home,66.31,3.67,Globex Corp,46,2023-11-27 22:27:27.915930
+93,Product 93,Electronics,32.2,1.24,Acme Corp,41,2023-04-14 22:27:27.915931
+94,Product 94,Appliances,8.14,3.63,Soylent Corp,79,2023-05-22 22:27:27.915932
+95,Product 95,Beauty,80.4,4.53,Globex Corp,25,2023-06-16 22:27:27.915932
+96,Product 96,Toys,103.6,3.31,Acme Corp,86,2023-02-27 22:27:27.915933
+97,Product 97,Furniture,17.43,2.42,Soylent Corp,18,2023-11-08 22:27:27.915934
+98,Product 98,Toys,71.83,4.28,Vandelay Industries,12,2023-02-13 22:27:27.915935
+99,Product 99,Electronics,112.83,4.13,Soylent Corp,87,2023-07-25 22:27:27.915935
+100,Product 100,Electronics,147.94,3.18,Vandelay Industries,51,2023-11-09 22:27:27.915936

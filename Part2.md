@@ -134,7 +134,7 @@ You will have to produce some graphs and charts to visualize the data you have j
 - Third Scenario: Plot a scatter plot of the high interaction customers (Transaction Count vs Total Spending)
 - Fourth Scenario: Plot a bar chart of the product sales across different seasons.
 
-# 6.Data Loading
+# 5.Data Loading
 
 ---
 
